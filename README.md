@@ -7,7 +7,7 @@
 
 ---
 
-## 🗂 Dataset Information
+## Dataset Information
 **Table:** `sales_data`  
 
 **Columns:**
