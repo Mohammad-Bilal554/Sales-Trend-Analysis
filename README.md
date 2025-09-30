@@ -1,4 +1,4 @@
-# Internship Task 6: Sales Trend Analysis  
+# Sales Trend Analysis  
 
 ##  Task Objective
 - Analyze monthly **revenue** and **order volume** from the `online_sales` dataset.
